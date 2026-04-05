@@ -1,5 +1,5 @@
 {
-  "name": "temp-file-host",
+  "name": "cf-temp-share",
   "version": "1.0.0",
   "private": true,
   "scripts": {
